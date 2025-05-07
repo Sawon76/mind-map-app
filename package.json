@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-flow-renderer": "^11.7.0",
-    "nanoid": "^3.3.4"
-  }
-}
